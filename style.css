@@ -1,9 +1,9 @@
 header {
-    background-color: #000000;
+    background-color: #c20303;
     color: white;
 }
 .cabecalho {
-    background-color: #ffffff;
+    background-color: #c20303;
     color: rgb(0, 0, 0);
     display: flex;
     justify-content: space-around;
@@ -23,7 +23,7 @@ header {
     width: 25%;
 }
 .escola{
-    background-image: linear-gradient(#ffffff,#000000);
+    background-image: linear-gradient(#c20303ff,#000000);
     color:rgb(255, 254, 254);
     display: flex;
     justify-content: center;
@@ -68,4 +68,6 @@ body {
     padding: 12px 0;
 
 }
+
+
 
