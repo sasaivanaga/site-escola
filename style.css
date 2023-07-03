@@ -1,10 +1,10 @@
 header {
-    background-color: #c20303;
-    color: white;
+    background-color: #ea2020;
+    color: #ffffff;
 }
 .cabecalho {
-    background-color: #c20303;
-    color: rgb(0, 0, 0);
+    background-color: #ea1f1f;
+    color: #ffffff;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -23,8 +23,8 @@ header {
     width: 25%;
 }
 .escola{
-    background-image: linear-gradient(#c20303ff,#000000);
-    color:rgb(255, 254, 254);
+    background-image: linear-gradient(#ee1f1f,#ea1c1c);
+    color:#ffffff;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -43,8 +43,8 @@ body {
     width: 120px;
 }
 .estudante-icone{
-    width: 24px;
-    padding: 4px 8px;
+    width: 4px;
+    padding: 2px 4px;
 }
 .estudante-div{
     text-align: center;
@@ -59,7 +59,7 @@ body {
     padding: 24px 0;
 }
 .rodape{
-    background-color: rgb(0, 0, 0);
+    background-color: #fb0202;
     text-align: center;
 }
 
@@ -68,6 +68,5 @@ body {
     padding: 30px 0;
 
 }
-
 
 
