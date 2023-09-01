@@ -4,7 +4,7 @@
 }
 
 .cabecalho {
-    background-color: #e90a0a;
+    background-color: #dea25a;
     color: white;
     display: flex;
     justify-content: space-around; 
@@ -13,7 +13,7 @@
 }
 
 .cabecalho-imagem{
-    width: 8%;
+    width: 5%;
 }
 
 .cabecalho-lista-item{
@@ -27,7 +27,7 @@
 }
 
 .Time{
-    background-image: linear-gradient(#e90a0a,rgb(92, 17, 4));
+    background-image: linear-gradient(#e9880a,rgb(175, 132, 76));
     color: black;
     display: flex;
     justify-content: center;
@@ -65,7 +65,7 @@
 }
 
 .rodape{
-    background-color: rgb(205, 4, 4);
+    background-color: rgb(220, 187, 4);
     text-align: center;
 }
 
